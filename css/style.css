@@ -1,0 +1,32 @@
+.main_header {
+    background: red;
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.main_header_logo{
+    vertical-align: middle;
+    margin-left: 130px ;
+}
+
+.main_header_nav {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 370px ;
+}
+
+.main_header_pic{
+    margin-left: 373px ;
+    vertical-align: middle;
+}
+
+li{
+    display: inline;
+
+}
+
+.li2{
+    margin-inline: 51px;
+}
+
+
