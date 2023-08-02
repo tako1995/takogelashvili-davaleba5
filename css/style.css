@@ -1,7 +1,14 @@
+
+
+
 .main_header {
-    background: red;
+    background: #2A9D8F;
     width: 1440px;
     margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    padding: 38px ;
+
 }
 
 .main_header_logo{
@@ -21,7 +28,7 @@
 }
 
 li{
-    display: inline;
+    display: inline-block;
 
 }
 
