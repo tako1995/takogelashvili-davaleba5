@@ -1,39 +1,73 @@
 
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 
 .main_header {
     background: #2A9D8F;
     width: 1440px;
     margin: 0 auto;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 400;
-    padding: 38px ;
+    font-family: 'Poppins', sans-serif;    font-weight: 400;
+    padding: 38px;
 
 }
 
-.main_header_logo{
+.main_header_logo {
     vertical-align: middle;
-    margin-left: 130px ;
+    margin-left: 130px;
 }
 
 .main_header_nav {
     display: inline-block;
     vertical-align: middle;
-    margin-left: 370px ;
+    margin-left: 370px;
 }
 
-.main_header_pic{
-    margin-left: 373px ;
+.main_header_pic {
+    margin-left: 373px;
     vertical-align: middle;
 }
 
-li{
+li  {
     display: inline-block;
 
 }
 
-.li2{
+.li2 {
     margin-inline: 51px;
 }
 
+/* <!-- Article --> */
+
+.article_ul {
+    margin: 200px auto;
+    width: 780px;
+    text-align: center;
+    color: #4D4D4D
+    ;
+
+}
+
+.article_li1{
+     font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+
+
+}
+
+.article_li2{
+
+    margin-top: 60px ;
+    margin-bottom: 52px ;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+
+}
+
+.article_li3{
+    
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+
+}
 
