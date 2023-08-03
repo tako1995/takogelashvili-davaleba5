@@ -90,19 +90,29 @@ li {
 .section_1_div {
     background-color: #2A9D8F;
     display: inline-block;
-    vertical-align: middle;
     font-size: 20px;
     width: 500px;
-    vertical-align: top;
     margin-top: 80px;
-    
+;
+
 }
 
 .section_1_h {
     font-size: 32px;
     display: inline;
-    
-
+    vertical-align: middle;
 
 }
 
+.section_1_p{
+    margin-top: 27px ;
+
+}
+
+.section_1_read_more{
+
+    background: #2A9D8F;
+    padding: 11px 16px;
+
+
+}
