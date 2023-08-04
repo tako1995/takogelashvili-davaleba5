@@ -74,7 +74,8 @@ li {
 
 .section_1 {
     width: 1440px;
-    background-color: aqua;
+    background: #C2F3EE;
+
     /* padding: 80px 130px; */
     margin: 200px auto;
     padding: 80px 130px;
@@ -142,7 +143,7 @@ li {
 .section2 {
     width: 1440px;
     margin: auto;
-    background-color: aquamarine;
+   
 }
 
 .section2_title {
@@ -158,6 +159,7 @@ li {
     justify-content: center;
     width: 515px;
     height: 62px;
+    margin-bottom: 56px;
 }
 
 .card {
@@ -179,3 +181,64 @@ li {
     margin-top: 32px;
 
 }
+
+/* footer */
+
+.footer {
+    width: 1440px;
+    display: flex;
+    height: 386px;
+    padding: 90px 130px 148px 130px;
+    /* justify-content: center;
+    align-items: flex-start;
+    gap: 634px; */
+    background: #2A9D8F;
+    margin: auto;
+    margin-top: 200px;
+
+}
+
+.footer1{
+margin-left: 634px;
+color: #FFF;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0.09px;
+
+}
+
+.footer2 {
+margin-inline: 42px ;
+color: #FFF;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0.09px;
+}
+
+.footer3{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.09px;
+}
+
+.div_title{
+    color: #FFF;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0.1px;
+margin-bottom: 21px ;
+}
+
