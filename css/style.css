@@ -140,10 +140,9 @@ li {
 
 
 .section2 {
-    width: 1180;
-    margin: 200px auto 0;
-    background-color: chocolate;
-
+    width: 1440px;
+    margin: auto;
+    background-color: aquamarine;
 }
 
 .section2_title {
@@ -154,11 +153,29 @@ li {
     font-weight: 500;
     line-height: 130%;
     letter-spacing: 0.24px;
-    vertical-align: middle;
-
+    /* vertical-align: middle; */
+    margin: auto;
+    justify-content: center;
+    width: 515px;
+    height: 62px;
 }
 
 .card {
-    margin: auto;
+    display: inline-block;
+    width: 580px;
+    height: 278px;
+    margin-inline: 50px;
+
+}
+
+.section2_p {
+    color: #535353;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.12px;
+    margin-top: 32px;
 
 }
