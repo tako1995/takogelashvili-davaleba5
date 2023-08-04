@@ -75,46 +75,90 @@ li {
 .section_1 {
     width: 1440px;
     background-color: aqua;
-    margin: 0 auto;
+    /* padding: 80px 130px; */
+    margin: 200px auto;
     padding: 80px 130px;
+
+
 
 }
 
 .section_1_img {
-    /* width: 600px;
-    height: 560px;
-    margin-right: 123px; */
+
     vertical-align: top;
-    margin-right: 123 px ;
+
+
 
 }
 
 .section_1_div {
     display: inline-block;
-    width: 500px;
+    width: 460px;
+    margin-left: 116px;
 
 
 }
 
 .section_1_h2 {
+    color: #272727;
+    font-family: Poppins;
     font-size: 32px;
-    margin-bottom: 32px;
-text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0.16px;
+    margin-bottom: 27px;
+
 
 
 }
 
 .section_1_p {
-    /* margin-top: 27px; */
+    color: #515151;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.09px;
 
 }
 
 .button {
 
     background: #2A9D8F;
-    /* padding: 11px 16px; */
-        margin-top: 27px;
+    display: inline-flex;
+    padding: 11px 16px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
 
 
+}
+
+/* section 2 */
+
+
+.section2 {
+    width: 1180;
+    margin: 200px auto 0;
+    background-color: chocolate;
+
+}
+
+.section2_title {
+    color: #4D4D4D;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 130%;
+    letter-spacing: 0.24px;
+    vertical-align: middle;
+
+}
+
+.card {
+    margin: auto;
 
 }
