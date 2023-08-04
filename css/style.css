@@ -22,9 +22,16 @@
     margin-left: 370px;
 }
 
-.main_header_pic {
-    margin-left: 373px;
+.main_header_button {
+    margin-left: 150px ;
     vertical-align: middle;
+    color: #2A9D8F;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 30px;
+letter-spacing: 0.1px;
 }
 
 li {
@@ -74,8 +81,7 @@ li {
 
 .section_1 {
     width: 1440px;
-    background: #C2F3EE;
-
+    background-color: aqua;
     /* padding: 80px 130px; */
     margin: 200px auto;
     padding: 80px 130px;
