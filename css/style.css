@@ -76,43 +76,45 @@ li {
     width: 1440px;
     background-color: aqua;
     margin: 0 auto;
+    padding: 80px 130px;
 
 }
 
 .section_1_img {
-    width: 600px;
+    /* width: 600px;
     height: 560px;
-    padding: 80px 130px;
-    margin-right: 123px ;
-   
+    margin-right: 123px; */
+    vertical-align: top;
+    margin-right: 123 px ;
+
 }
 
 .section_1_div {
-    background-color: #2A9D8F;
     display: inline-block;
-    font-size: 20px;
     width: 500px;
-    margin-top: 80px;
-;
+
 
 }
 
-.section_1_h {
+.section_1_h2 {
     font-size: 32px;
-    display: inline;
-    vertical-align: middle;
+    margin-bottom: 32px;
+text-align: center;
+
 
 }
 
-.section_1_p{
-    margin-top: 27px ;
+.section_1_p {
+    /* margin-top: 27px; */
 
 }
 
-.section_1_read_more{
+.button {
 
     background: #2A9D8F;
-    padding: 11px 16px;
+    /* padding: 11px 16px; */
+        margin-top: 27px;
+
 
 
 }
